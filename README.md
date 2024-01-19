@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,css,sass,vue,nodejs,ts,postgresql,mysql,mongodb,gcp,docker" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,css,sass,vue,nodejs,ts,postgresql,mysql,mongodb,gcp,docker,redis" />
   </a>
 </p>
 
